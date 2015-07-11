@@ -1,0 +1,5 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\02. SortWords\bin\Debug\_02.SortWords.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\02. SortWords\bin\Debug\_02.SortWords.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\02. SortWords\bin\Debug\_02.SortWords.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\02. SortWords\obj\Debug\_02.SortWords.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\02. SortWords\obj\Debug\_02.SortWords.pdb

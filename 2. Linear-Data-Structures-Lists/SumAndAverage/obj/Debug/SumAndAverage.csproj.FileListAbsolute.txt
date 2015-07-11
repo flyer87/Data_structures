@@ -1,0 +1,6 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\SumAndAverage\bin\Debug\SumAndAverage.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\SumAndAverage\bin\Debug\SumAndAverage.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\SumAndAverage\bin\Debug\SumAndAverage.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\SumAndAverage\obj\Debug\SumAndAverage.csprojResolveAssemblyReference.cache
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\SumAndAverage\obj\Debug\SumAndAverage.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\SumAndAverage\obj\Debug\SumAndAverage.pdb
