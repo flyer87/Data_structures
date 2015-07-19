@@ -1,0 +1,6 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\04. RemoveOddOccurences\bin\Debug\_04.RemoveOddOccurences.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\04. RemoveOddOccurences\bin\Debug\_04.RemoveOddOccurences.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\04. RemoveOddOccurences\bin\Debug\_04.RemoveOddOccurences.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\04. RemoveOddOccurences\obj\Debug\04. RemoveOddOccurences.csprojResolveAssemblyReference.cache
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\04. RemoveOddOccurences\obj\Debug\_04.RemoveOddOccurences.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\04. RemoveOddOccurences\obj\Debug\_04.RemoveOddOccurences.pdb

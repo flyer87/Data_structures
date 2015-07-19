@@ -1,0 +1,7 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\TestArrayStack\obj\Debug\TestArrayStack.csprojResolveAssemblyReference.cache
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\TestArrayStack\bin\Debug\TestArrayStack.dll
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\TestArrayStack\bin\Debug\TestArrayStack.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\TestArrayStack\bin\Debug\03ArrayBasedStack.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\TestArrayStack\bin\Debug\03ArrayBasedStack.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\TestArrayStack\obj\Debug\TestArrayStack.dll
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\TestArrayStack\obj\Debug\TestArrayStack.pdb

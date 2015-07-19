@@ -1,0 +1,5 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\01ReverseNumbers\bin\Debug\01ReverseNumbers.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\01ReverseNumbers\bin\Debug\01ReverseNumbers.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\01ReverseNumbers\bin\Debug\01ReverseNumbers.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\01ReverseNumbers\obj\Debug\01ReverseNumbers.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\01ReverseNumbers\obj\Debug\01ReverseNumbers.pdb

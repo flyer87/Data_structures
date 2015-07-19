@@ -1,0 +1,5 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\03ArrayBasedStack\bin\Debug\03ArrayBasedStack.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\03ArrayBasedStack\bin\Debug\03ArrayBasedStack.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\03ArrayBasedStack\bin\Debug\03ArrayBasedStack.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\03ArrayBasedStack\obj\Debug\03ArrayBasedStack.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\03ArrayBasedStack\obj\Debug\03ArrayBasedStack.pdb

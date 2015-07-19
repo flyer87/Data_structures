@@ -3,3 +3,4 @@ D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Li
 D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\02. SortWords\bin\Debug\_02.SortWords.pdb
 D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\02. SortWords\obj\Debug\_02.SortWords.exe
 D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\02. SortWords\obj\Debug\_02.SortWords.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\02. SortWords\obj\Debug\02. SortWords.csprojResolveAssemblyReference.cache

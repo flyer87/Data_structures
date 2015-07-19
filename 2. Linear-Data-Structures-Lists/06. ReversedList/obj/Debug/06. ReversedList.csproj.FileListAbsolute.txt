@@ -1,0 +1,2 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\06. ReversedList\bin\Debug\_06.ReversedList.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\2. Linear-Data-Structures-Lists\06. ReversedList\obj\Debug\06. ReversedList.csprojResolveAssemblyReference.cache

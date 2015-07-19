@@ -1,0 +1,5 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\02First50Memebers\bin\Debug\02First50Memebers.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\02First50Memebers\bin\Debug\02First50Memebers.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\02First50Memebers\bin\Debug\02First50Memebers.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\02First50Memebers\obj\Debug\02First50Memebers.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\3. Linear-Data-Structures-Stacks-and-Queues\02First50Memebers\obj\Debug\02First50Memebers.pdb

@@ -6,25 +6,52 @@ class Program
 {
     /* NOT FINISHED, DON'T TEST!*/
 
-    static List<int> Longest(List<int> list)
+    static List<int> Longest(List<int> numbersList)
     {
-        int longestNum = list[0];
+        int longestNumb = 0; 
         int longestCnt = 0;
-        for (int i = 0; i < list.Count-1; i++)
+
+        int cnt = 1;
+        int currntNum = numbersList[0];
+
+        for (int i = 0; i < numbersList.Count-1; i++)
         {
-            int cnt = 0;
-            longestNum = list[i];
-            if (list[i] == longestNum)
+            if (numbersList[i + 1] == currntNum)
             {
                 cnt++;
-            }            
+            }
+            else
+            {
+                if (cnt > longestCnt)
+                {
+                    longestNumb = currntNum;
+                    longestCnt = cnt;
+                    currntNum = numbersList[i + 1];
+                    cnt = 1;
+                }
+            }
         }
 
-        return new List<int>();
+        if ((numbersList[numbersList.Count-1] == currntNum) && (cnt > longestCnt))
+        {
+            longestNumb = currntNum;
+            longestCnt = cnt;            
+        }
+
+        var list1 = new List<int>();
+        for (int i = 0; i < longestCnt; i++)
+        {
+            list1.Add(longestNumb);
+        }
+
+        return list1;
     }
 
     static void Main(string[] args)
     {
-        Longest(new List<int>(){ 2, 2, 2 });
+        var line = Console.ReadLine();
+        List<int> numbers = new List<int>();
+        numbers = line.Split(new String[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(Int32.Parse).ToList();
+        Console.WriteLine(String.Join(" ", Longest(numbers)));
     }
 }

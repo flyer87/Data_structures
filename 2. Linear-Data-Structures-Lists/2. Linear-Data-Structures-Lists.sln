@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAndAverage", "SumAndAverage\SumAndAverage.csproj", "{67746760-E5F0-4E7A-8788-8293C7AB7C3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SumAndAverage", "SumAndAverage\01. SumAndAverage.csproj", "{67746760-E5F0-4E7A-8788-8293C7AB7C3A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SortWords", "02. SortWords\02. SortWords.csproj", "{6542F13F-D4BF-4F6A-BDF8-7EA2BAF4306F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. LongestSubsequence", "03. LongestSubsequence\03. LongestSubsequence.csproj", "{00458267-7B06-4F3F-A481-093E1325D29A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. RemoveOddOccurences", "04. RemoveOddOccurences\04. RemoveOddOccurences.csproj", "{E45E32EC-A491-4512-8E31-2DC4AEAE4FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. ReversedList", "06. ReversedList\06. ReversedList.csproj", "{546E3C21-0706-42F8-B759-BD3C9467AA64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,14 @@ Global
 		{00458267-7B06-4F3F-A481-093E1325D29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00458267-7B06-4F3F-A481-093E1325D29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00458267-7B06-4F3F-A481-093E1325D29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45E32EC-A491-4512-8E31-2DC4AEAE4FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45E32EC-A491-4512-8E31-2DC4AEAE4FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45E32EC-A491-4512-8E31-2DC4AEAE4FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45E32EC-A491-4512-8E31-2DC4AEAE4FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546E3C21-0706-42F8-B759-BD3C9467AA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546E3C21-0706-42F8-B759-BD3C9467AA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546E3C21-0706-42F8-B759-BD3C9467AA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546E3C21-0706-42F8-B759-BD3C9467AA64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
