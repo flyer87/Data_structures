@@ -1,0 +1,6 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T03_RideTheHorse\bin\Debug\T03_RideTheHorse.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T03_RideTheHorse\bin\Debug\T03_RideTheHorse.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T03_RideTheHorse\bin\Debug\T03_RideTheHorse.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T03_RideTheHorse\obj\Debug\T03_RideTheHorse.csprojResolveAssemblyReference.cache
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T03_RideTheHorse\obj\Debug\T03_RideTheHorse.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T03_RideTheHorse\obj\Debug\T03_RideTheHorse.pdb

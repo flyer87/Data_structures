@@ -1,0 +1,6 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T02_RoundRace\bin\Debug\T02_RoundRace.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T02_RoundRace\bin\Debug\T02_RoundRace.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T02_RoundRace\bin\Debug\T02_RoundRace.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T02_RoundRace\obj\Debug\T02_RoundRace.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T02_RoundRace\obj\Debug\T02_RoundRace.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T02_RoundRace\obj\Debug\T02_RoundRace.csprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_FindRoot", "T01_FindRoot\T01_FindRoot.csproj", "{844E636D-FC47-4D2B-9FFF-29080BEC667D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_RoundRace", "T02_RoundRace\T02_RoundRace.csproj", "{703047F7-03F6-41D3-A3E2-82D3AEDDC8D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_RideTheHorse", "T03_RideTheHorse\T03_RideTheHorse.csproj", "{ACD3416F-15B2-4E54-8AB4-9A28CD7ADCEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844E636D-FC47-4D2B-9FFF-29080BEC667D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844E636D-FC47-4D2B-9FFF-29080BEC667D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844E636D-FC47-4D2B-9FFF-29080BEC667D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844E636D-FC47-4D2B-9FFF-29080BEC667D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703047F7-03F6-41D3-A3E2-82D3AEDDC8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703047F7-03F6-41D3-A3E2-82D3AEDDC8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703047F7-03F6-41D3-A3E2-82D3AEDDC8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703047F7-03F6-41D3-A3E2-82D3AEDDC8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD3416F-15B2-4E54-8AB4-9A28CD7ADCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD3416F-15B2-4E54-8AB4-9A28CD7ADCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD3416F-15B2-4E54-8AB4-9A28CD7ADCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD3416F-15B2-4E54-8AB4-9A28CD7ADCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
