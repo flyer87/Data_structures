@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_RoundRace", "T02_RoundR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_RideTheHorse", "T03_RideTheHorse\T03_RideTheHorse.csproj", "{ACD3416F-15B2-4E54-8AB4-9A28CD7ADCEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04_LongestPathInTree", "T04_LongestPathInTree\T04_LongestPathInTree.csproj", "{4E714CFA-E513-479D-B621-41CCA83C7D04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{ACD3416F-15B2-4E54-8AB4-9A28CD7ADCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACD3416F-15B2-4E54-8AB4-9A28CD7ADCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACD3416F-15B2-4E54-8AB4-9A28CD7ADCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E714CFA-E513-479D-B621-41CCA83C7D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E714CFA-E513-479D-B621-41CCA83C7D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E714CFA-E513-479D-B621-41CCA83C7D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E714CFA-E513-479D-B621-41CCA83C7D04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,7 +8,7 @@ namespace T02_RoundRace
 {
     class Program
     {
-        static Dictionary<int, List<int>> friendsTree;
+        static Dictionary<int, List<int>> friendsDict;
         static int maxLength = 0;
         static int leader;
 
@@ -26,10 +26,10 @@ namespace T02_RoundRace
                 maxLength = length;
             }
             
-            if (friendsTree.ContainsKey(node))
+            if (friendsDict.ContainsKey(node))
             {
                 length++;
-                foreach (var child in friendsTree[node])
+                foreach (var child in friendsDict[node])
                 {
                     FindLongestPathFromNodeDFS(child, length);
                 }
@@ -39,18 +39,18 @@ namespace T02_RoundRace
         static void ReadInput()
         {
             int cntOfFriendships = int.Parse(Console.ReadLine());
-            leader = Int16.Parse(Console.ReadLine());
+            leader = int.Parse(Console.ReadLine());
 
-            friendsTree = new Dictionary<int, List<int>>();
+            friendsDict = new Dictionary<int, List<int>>();
             for (int i = 1; i <= cntOfFriendships; i++)
             {
                 int[] friends = Console.ReadLine().Split().Select(int.Parse).ToArray();
-                if (!friendsTree.ContainsKey(friends[0]))
+                if (!friendsDict.ContainsKey(friends[0]))
                 {
-                    friendsTree[friends[0]] = new List<int>();
+                    friendsDict[friends[0]] = new List<int>();
                 }
 
-                friendsTree[friends[0]].Add(friends[1]);
+                friendsDict[friends[0]].Add(friends[1]);
             }
         }
     }
