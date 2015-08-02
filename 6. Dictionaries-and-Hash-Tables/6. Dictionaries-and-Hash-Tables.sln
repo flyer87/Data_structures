@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_Dictionary", "T01_Dictionary\T01_Dictionary.csproj", "{A958DEF9-8E40-4A3E-A84B-6EF5092D0799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_CountSymbols", "T02_CountSymbols\T02_CountSymbols.csproj", "{D1589856-3849-464C-ADCD-53C7A781CB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A958DEF9-8E40-4A3E-A84B-6EF5092D0799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A958DEF9-8E40-4A3E-A84B-6EF5092D0799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A958DEF9-8E40-4A3E-A84B-6EF5092D0799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A958DEF9-8E40-4A3E-A84B-6EF5092D0799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1589856-3849-464C-ADCD-53C7A781CB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1589856-3849-464C-ADCD-53C7A781CB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1589856-3849-464C-ADCD-53C7A781CB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1589856-3849-464C-ADCD-53C7A781CB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

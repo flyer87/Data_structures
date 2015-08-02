@@ -66,7 +66,7 @@ namespace T03_RideTheHorse
         static void Main(string[] args)
         {
             height = int.Parse(Console.ReadLine());
-            width = int.Parse(Console.ReadLine());
+            width =  int.Parse(Console.ReadLine());
             startY = int.Parse(Console.ReadLine());
             startX = int.Parse(Console.ReadLine());
 

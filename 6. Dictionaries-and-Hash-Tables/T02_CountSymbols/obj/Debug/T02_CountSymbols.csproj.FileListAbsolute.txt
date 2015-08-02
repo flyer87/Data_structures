@@ -1,0 +1,8 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T02_CountSymbols\bin\Debug\T02_CountSymbols.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T02_CountSymbols\bin\Debug\T02_CountSymbols.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T02_CountSymbols\bin\Debug\T02_CountSymbols.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T02_CountSymbols\bin\Debug\T01_Dictionary.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T02_CountSymbols\bin\Debug\T01_Dictionary.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T02_CountSymbols\obj\Debug\T02_CountSymbols.csprojResolveAssemblyReference.cache
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T02_CountSymbols\obj\Debug\T02_CountSymbols.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T02_CountSymbols\obj\Debug\T02_CountSymbols.pdb

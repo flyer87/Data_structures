@@ -3,3 +3,4 @@ D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-
 D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T01_FindRoot\bin\Debug\T01_FindRoot.pdb
 D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T01_FindRoot\obj\Debug\T01_FindRoot.exe
 D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T01_FindRoot\obj\Debug\T01_FindRoot.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\5. Tree-and-Graph-Traversal-Algorithms\T01_FindRoot\obj\Debug\T01_FindRoot.csprojResolveAssemblyReference.cache
