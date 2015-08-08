@@ -1,0 +1,8 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T03_Phonebook\bin\Debug\T03_Phonebook.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T03_Phonebook\bin\Debug\T03_Phonebook.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T03_Phonebook\bin\Debug\T03_Phonebook.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T03_Phonebook\bin\Debug\T01_Dictionary.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T03_Phonebook\bin\Debug\T01_Dictionary.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T03_Phonebook\obj\Debug\T03_Phonebook.csprojResolveAssemblyReference.cache
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T03_Phonebook\obj\Debug\T03_Phonebook.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T03_Phonebook\obj\Debug\T03_Phonebook.pdb
