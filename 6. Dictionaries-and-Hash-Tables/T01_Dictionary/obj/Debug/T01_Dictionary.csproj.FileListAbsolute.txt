@@ -1,5 +1,4 @@
 D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T01_Dictionary\bin\Debug\T01_Dictionary.exe.config
-D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T01_Dictionary\obj\Debug\T01_Dictionary.csprojResolveAssemblyReference.cache
 D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T01_Dictionary\bin\Debug\T01_Dictionary.exe
 D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T01_Dictionary\bin\Debug\T01_Dictionary.pdb
 D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T01_Dictionary\obj\Debug\T01_Dictionary.exe

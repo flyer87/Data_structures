@@ -1,0 +1,6 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T04_OrderedSet\bin\Debug\T04_OrderedSet.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T04_OrderedSet\bin\Debug\T04_OrderedSet.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T04_OrderedSet\bin\Debug\T04_OrderedSet.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T04_OrderedSet\obj\Debug\T04_OrderedSet.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T04_OrderedSet\obj\Debug\T04_OrderedSet.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\6. Dictionaries-and-Hash-Tables\T04_OrderedSet\obj\Debug\T04_OrderedSet.csprojResolveAssemblyReference.cache

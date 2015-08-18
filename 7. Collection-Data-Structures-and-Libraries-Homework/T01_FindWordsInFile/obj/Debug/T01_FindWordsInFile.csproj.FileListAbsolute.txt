@@ -1,0 +1,1 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T01_FindWordsInFile\bin\Debug\T01_FindWordsInFile.exe.config
