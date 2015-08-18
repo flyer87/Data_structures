@@ -1,0 +1,8 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T02_PriceRange\bin\Debug\T02_PriceRange.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T02_PriceRange\bin\Debug\T02_PriceRange.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T02_PriceRange\bin\Debug\T02_PriceRange.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T02_PriceRange\bin\Debug\PowerCollections.dll
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T02_PriceRange\bin\Debug\PowerCollections.xml
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T02_PriceRange\obj\Debug\T02_PriceRange.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T02_PriceRange\obj\Debug\T02_PriceRange.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T02_PriceRange\obj\Debug\T02_PriceRange.csprojResolveAssemblyReference.cache

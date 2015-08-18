@@ -1,1 +1,5 @@
 D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T01_FindWordsInFile\bin\Debug\T01_FindWordsInFile.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T01_FindWordsInFile\bin\Debug\T01_FindWordsInFile.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T01_FindWordsInFile\bin\Debug\T01_FindWordsInFile.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T01_FindWordsInFile\obj\Debug\T01_FindWordsInFile.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\7. Collection-Data-Structures-and-Libraries-Homework\T01_FindWordsInFile\obj\Debug\T01_FindWordsInFile.pdb
