@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_FindWordsInFile", "T01_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_PriceRange", "T02_PriceRange\T02_PriceRange.csproj", "{1870C9FC-7C84-422B-A611-102736542FA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_PriorityQueue", "T03_PriorityQueue\T03_PriorityQueue.csproj", "{0BD82BB3-25EF-4D0A-B083-80FF7418049F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{1870C9FC-7C84-422B-A611-102736542FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1870C9FC-7C84-422B-A611-102736542FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1870C9FC-7C84-422B-A611-102736542FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD82BB3-25EF-4D0A-B083-80FF7418049F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD82BB3-25EF-4D0A-B083-80FF7418049F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD82BB3-25EF-4D0A-B083-80FF7418049F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD82BB3-25EF-4D0A-B083-80FF7418049F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
