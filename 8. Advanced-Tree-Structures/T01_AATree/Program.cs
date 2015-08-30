@@ -12,11 +12,20 @@ namespace T01_AATree
         {
             var tree = new AATree<int, string>();
             Console.WriteLine("The AA tree created.");
-            var nums = new[] { -5, -6, 25 }; //, 11, 8, -3, 111, 7, 100, -55 };
+            var nums = new[] { 3, 1, 5, 0, 2, 4, 6 }; //{ 5, 6, 25 }; //, 11, 8, -3, 111, 7, 100, -55 };
             for (int i = 0; i < nums.Length; i++)
             {
                 AddNumber(tree, nums[i], "value " + nums[i]);
             }
+
+            tree.Remove(0);
+            Console.WriteLine("Removed 0");
+            DisplayTree(tree.Root, string.Empty);
+            Console.WriteLine("----------------------");
+            tree.Remove(3);
+            Console.WriteLine("Removed 3");
+            DisplayTree(tree.Root, string.Empty);
+            Console.WriteLine("----------------------");
         }
 
         public static void AddNumber(AATree<int, string> tree, int key, string value)

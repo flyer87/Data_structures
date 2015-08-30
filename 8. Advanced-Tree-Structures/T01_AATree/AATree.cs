@@ -160,6 +160,63 @@ namespace T01_AATree
             return true;
         }
 
+
+        //private bool Delete(ref Node node, TKey key)
+        //{
+        //    if (node == sentinel)
+        //    {
+        //        return false;
+        //    }
+
+        //    // compare key with current node's key
+        //    int compareResult = key.CompareTo(node.key);
+        //    if (compareResult < 0)
+        //    {
+        //        Delete(ref node.left, key);
+        //    }
+        //    else if (compareResult > 0)
+        //    {
+        //        Delete(ref node.right, key);
+        //    }
+        //    else // node to delete found
+        //    {
+        //        // found node is being "removed" by replacing with one of it succesors (right succesor) 
+        //        //node = node.right;
+        //        var inOrderPredecessor = this.FindInOrderPredecessor(node.left);
+        //        node.key = inOrderPredecessor.key;
+        //        Delete(ref node.left, inOrderPredecessor.key);
+        //    }
+
+        //    if (node.left.level < node.level - 1
+        //         || node.right.level < node.level - 1)
+        //    {
+        //        node.level--;
+        //        if (node.right.level > node.level)
+        //        {
+        //            node.right.level = node.level;
+        //        }
+
+        //        Skew(ref node);
+        //        Skew(ref node.right);
+        //        Skew(ref node.right.right);
+        //        Split(ref node);
+        //        Split(ref node.right);
+        //    }
+
+        //    return true;
+        //}
+
+        //private Node FindInOrderPredecessor(Node node)
+        //{
+        //    var inOrderPredecessor = node;
+        //    while (inOrderPredecessor.right != sentinel)
+        //    {
+        //        inOrderPredecessor = node.right;
+        //    }
+
+        //    return inOrderPredecessor;
+        //}
+
         public bool Remove(TKey key)
         {
             return Delete(ref root, key);
