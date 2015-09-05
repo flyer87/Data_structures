@@ -1,0 +1,6 @@
+D:\SoftUni\Data_structures\Homework\Data_structures\9. Data Structure Efficiency\T02_BiDictionary\bin\Debug\T02_BiDictionary.exe.config
+D:\SoftUni\Data_structures\Homework\Data_structures\9. Data Structure Efficiency\T02_BiDictionary\bin\Debug\T02_BiDictionary.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\9. Data Structure Efficiency\T02_BiDictionary\bin\Debug\T02_BiDictionary.pdb
+D:\SoftUni\Data_structures\Homework\Data_structures\9. Data Structure Efficiency\T02_BiDictionary\obj\Debug\T02_BiDictionary.csprojResolveAssemblyReference.cache
+D:\SoftUni\Data_structures\Homework\Data_structures\9. Data Structure Efficiency\T02_BiDictionary\obj\Debug\T02_BiDictionary.exe
+D:\SoftUni\Data_structures\Homework\Data_structures\9. Data Structure Efficiency\T02_BiDictionary\obj\Debug\T02_BiDictionary.pdb
