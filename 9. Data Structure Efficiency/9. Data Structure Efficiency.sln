@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_Students_and_Courses", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_BiDictionary", "T02_BiDictionary\T02_BiDictionary.csproj", "{10B1E6FD-2D5F-4CE7-BD60-17D71628B291}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_Products", "T03_Products\T03_Products.csproj", "{AC541CB7-C9A7-405B-B000-BBCCE62853E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{10B1E6FD-2D5F-4CE7-BD60-17D71628B291}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10B1E6FD-2D5F-4CE7-BD60-17D71628B291}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10B1E6FD-2D5F-4CE7-BD60-17D71628B291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC541CB7-C9A7-405B-B000-BBCCE62853E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC541CB7-C9A7-405B-B000-BBCCE62853E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC541CB7-C9A7-405B-B000-BBCCE62853E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC541CB7-C9A7-405B-B000-BBCCE62853E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
